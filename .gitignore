@@ -1,0 +1,20 @@
+# general ignores
+*.log
+~*
+*.sw?
+**/.DS_Store
+**/._.DS_Store
+**/.Trashes
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Latex
+*.aux
+*.dvi
+*.lof
+*.lot
+*.out
+*.toc
