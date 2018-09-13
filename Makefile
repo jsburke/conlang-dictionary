@@ -1,5 +1,3 @@
-PROJ_NAME  = Conlang Dictionary
-
 #############################
 #                           #
 # Sources and Destinations  #
