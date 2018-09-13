@@ -15,4 +15,4 @@ The dictionary comprises multiple sections beyond the words that will be enumera
 - Biographical Names
 - Geographical Names
 
-It is worthwhile to note that a given section need not be mandatory.  They may be removed as one sees fit.  Each section will have its own subdirectory for sake of neatness.
+It is worthwhile to note that a given section need not be mandatory.  They may be removed as one sees fit.
