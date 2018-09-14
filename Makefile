@@ -31,7 +31,7 @@ default: pdf
 .PHONY: pdf
 pdf: $(DST)
 
-$(DST): 
+$(DST): *.tex 
 	make build
 	make clean
 
