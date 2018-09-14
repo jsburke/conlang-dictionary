@@ -65,8 +65,8 @@ full-clean:
 help:
 	@echo "Dictionary Builder Assistant"
 	@echo " "
-	@echo "  A tool to hopefully make dictionary"
-	@echo "  a whole lot easier for regular Joes"
+	@echo "  A tool to hopefully make dictionary creation"
+	@echo "  a whole lot easier for regular Joes who like pretty documents"
 	@echo " "
 	@echo "  Make targets"
 	@echo " "
