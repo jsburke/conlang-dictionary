@@ -7,6 +7,7 @@ This project will provide a means and template for more easily generating elegan
 The dictionary comprises multiple sections beyond the words that will be enumerated and described.  Currently slated sections for inclusion in this project are as follows:
 
 - Cover
+- Attribution
 - Contents
 - Preface
 - Abbreviations
