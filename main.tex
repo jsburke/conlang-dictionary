@@ -2,14 +2,31 @@
 %\documentclass[11pt,twoside]{book}
 \usepackage{titlesec}
 
+%  Chapters don't show Chapter N
 \titleformat{\chapter}[display]
   {\normalfont\bfseries}{}{0pt}{\huge}
 
+%  typographic choices
 \usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{palatino}
+\usepackage{microtype}
+
 \usepackage{subfiles}
+
 \usepackage{multicol}
 \setlength{\columnsep}{1.5cm}
+
 \usepackage{hyperref}
+
+%  header control 
+\usepackage{fancyhdr}
+\fancyhead[L]{\textsf{\rightmark}}
+\fancyhead[R]{\textsf{\leftmark}}
+\renewcommand{\headrulewidth}{1.4pt}
+\fancyfoot[C]{\textbf{\textsf{\thepage}}}
+\renewcommand{\footrulewidth}{1.4pt}
+\pagestyle{fancy}
 
 \usepackage{blindtext}
 
